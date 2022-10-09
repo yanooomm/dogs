@@ -1,0 +1,70 @@
+body {
+    background: #f1f1f1;
+    color: #000000;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+/*.info p {
+    background: #e8b9b9;
+    padding: 20px;
+    border: 1px solid #5e1919;
+    margin: 15px;
+    border-radius: 15px;
+    text-align: center;
+}*/
+
+a{
+    color: #000000;
+}
+
+.wiki{
+    clear: both;
+    text-align: center;
+    background: #dce8d8;
+    margin: 10px;
+    padding: 1px;
+}
+
+.footer {
+    background: #d1e1cc;
+    padding: 4px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.dog {
+    text-align: center;
+    clear: left;
+    padding: 20px;
+}
+
+.mainblock {
+    width: 100%;
+    display: inline-block;
+}
+.left{
+    background: #decedf;
+    width: 18%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 120%;
+    padding: 20px;
+}
+.main {
+    width: 45%;
+    background: #d4dae3;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+
+.right {
+    background: #decedf;
+    width: 18%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+}
+
